@@ -1,0 +1,6 @@
+.div-imagen-fondo {
+  background-image: url(/src/assets/community.jpg);
+  background-position: center center;
+  background-size: contain;
+
+}
